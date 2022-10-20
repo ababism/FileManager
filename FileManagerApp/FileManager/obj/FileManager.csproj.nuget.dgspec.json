@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/abism/Documents/C#/PeersFromWindows/PeergadesFromWindows/TEMP/FileManagerApp/FileManager/FileManager.csproj": {}
+  },
+  "projects": {
+    "/Users/abism/Documents/C#/PeersFromWindows/PeergadesFromWindows/TEMP/FileManagerApp/FileManager/FileManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abism/Documents/C#/PeersFromWindows/PeergadesFromWindows/TEMP/FileManagerApp/FileManager/FileManager.csproj",
+        "projectName": "FileManager",
+        "projectPath": "/Users/abism/Documents/C#/PeersFromWindows/PeergadesFromWindows/TEMP/FileManagerApp/FileManager/FileManager.csproj",
+        "packagesPath": "/Users/abism/.nuget/packages/",
+        "outputPath": "/Users/abism/Documents/C#/PeersFromWindows/PeergadesFromWindows/TEMP/FileManagerApp/FileManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abism/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
